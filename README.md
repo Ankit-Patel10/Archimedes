@@ -1,7 +1,7 @@
 # Archimedes
 
 
-Archimedes is a SE101 Project Created by Ankit Patel, Taha Masood, Josh Schaefer, and Shadman Hassan
+Archimedes is a SE101 Project Created by Ankit Patel
 
   - 2D Platformer made in Unity
   - Applies Puzzle game mechanics and traditional 2D Platformer Mechanics
