@@ -12,6 +12,7 @@ int buttonState1 = 0;
 int buttonState2 = 0;
 int buttonState3 = 0;
 
+// Initial Setup
 void setup() {
   pinMode(buttonPin0, INPUT); //Sets all of the buttons to receive input
   pinMode(buttonPin1, INPUT);
@@ -21,6 +22,7 @@ void setup() {
   Keyboard.begin();
 }
 
+// Loop that is run through indefinitely
 void loop() {
   buttonState0 = digitalRead(buttonPin0); //States of being pressed of the buttons
   buttonState1 = digitalRead(buttonPin1);
