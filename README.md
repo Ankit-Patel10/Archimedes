@@ -1,7 +1,3 @@
-# Note for Rollen
-- All code can be found in the code folders in the main directory titled, "UnityCSharpCode" and for the arduino code refer to the folder titled "Arduino Code"
-
-
 # Archimedes
 
 
