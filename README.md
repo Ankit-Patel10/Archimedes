@@ -17,7 +17,7 @@ Archimedes is a SE101 Project Created by Ankit Patel, Taha Masood, Josh Schaefer
 
 ### Tech
 
-* [C#] - For Unity Scripts
+* [C#] - For Unity Script, in order to implement all game mechanics
 * [Unity] - For level design and Boolean Logic Systems
 * [Arduino] - External Game Controller
 * [Git] - Real time update of code
